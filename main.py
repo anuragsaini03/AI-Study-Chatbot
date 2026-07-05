@@ -36,9 +36,7 @@ response = {
     "i am stuck on a bug" : "Take a deep breath. Try explaining the code line-by-line to a 'rubber duck' or check your syntax error line.",
     "what is an API" : "An API (Application Programming Interface) allows two different software applications to talk to each other.",
     "what is git" : "Git is a version control system that tracks changes in your code and helps you collaborate with others.",
-    "i feel overwhelmed" : "It's completely normal to feel this way. Take a 10-minute walk, drink some water, and tackle just one small task next.",
-    "i want to quit" : "Remember why you started. Every expert was once a beginner. You've got this!",
-    "sad" : "I'm sorry you're feeling down. Remember that progress isn't linear. Be kind to yourself today.",
+    
     "i feel overwhelmed" : "It's completely normal to feel this way. Take a 10-minute walk, drink some water, and tackle just one small task next.",
     "i want to quit" : "Remember why you started. Every expert was once a beginner. You've got this!",
     "sad" : "I'm sorry you're feeling down. Remember that progress isn't linear. Be kind to yourself today.",
